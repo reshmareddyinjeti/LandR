@@ -15,6 +15,7 @@ public class AppTest {
     public void shouldAnswerWithTrue() {
         System.out.println("18 july");
         System.out.println("1 st Augest");
+        System.out.println("01/09/20222");
 
         assertTrue(true);
     }
